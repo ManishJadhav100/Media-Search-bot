@@ -24,7 +24,7 @@ auth_channel = environ.get('AUTH_CHANNEL')
 AUTH_CHANNEL = int(auth_channel) if auth_channel and id_pattern.search(auth_channel) else auth_channel
 
 # MongoDB information
-DATABASE_URI = 'mongodb+srv://moviesearch:Manya@004@cluster0.p2e1q.mongodb.net/movies?retryWrites=true&w=majority'
+DATABASE_URI = 'mongodb+srv://moviesearch:Manya@004@cluster0.p2e1q.mongodb.net/myFirstDatabase?retryWrites=true&w=majority'
 DATABASE_NAME = 'movies'
 COLLECTION_NAME = 'movies'
 
