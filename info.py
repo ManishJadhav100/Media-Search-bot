@@ -22,9 +22,9 @@ AUTH_USERS = []
 AUTH_CHANNEL = None
 
 # MongoDB information
-DATABASE_URI = 'mongodb+srv://moviesearch:Manya@004@cluster0.p2e1q.mongodb.net/movies?retryWrites=true&w=majority'
-DATABASE_NAME = 'movies'
-COLLECTION_NAME = 'movies'
+DATABASE_URI = 'mongodb+srv://moviesearch:Manya@007@cluster0.p2e1q.mongodb.net/myFirstDatabase?retryWrites=true&w=majority'
+DATABASE_NAME = 'moviedata'
+COLLECTION_NAME = 'sample'
 
 # Messages
 default_start_msg = """
