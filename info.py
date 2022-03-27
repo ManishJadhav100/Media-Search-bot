@@ -4,8 +4,8 @@ from os import environ
 id_pattern = re.compile(r'^.\d+$')
 
 # Bot information
-SESSION = 'Media_search'
-USER_SESSION = 'User_Bot'
+SESSION = 'Media_search1'
+USER_SESSION = 'User_Bot1'
 API_ID = 3780861
 API_HASH = 'f0da0ce1c62042ffc0f1904bda7baa76'
 BOT_TOKEN = '5274443907:AAHgHcPGT3FvcjHnd0p4thWIi_3zSNed8fE'
