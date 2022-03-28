@@ -18,7 +18,7 @@ USE_CAPTION_FILTER = False
 # Admins, Channels & Users
 ADMINS = [1394463981]
 CHANNELS = [-1001490115011]
-AUTH_USERS = []
+AUTH_USERS = [1394463981]
 AUTH_CHANNEL = None
 
 # MongoDB information
